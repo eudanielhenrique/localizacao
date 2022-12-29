@@ -2,8 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/eudanielhenrique/localizacao?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eudanielhenrique/localizacao?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/eudanielhenrique/localizacao?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/eudanielhenrique/localizacao?style=for-the-badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3e4643b7-965e-40c9-af42-c57d0a7b5c7c/deploy-status)](https://app.netlify.com/sites/js-localizacao/deploys)
 
 <h1 align="center">
